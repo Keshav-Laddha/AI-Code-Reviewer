@@ -1,0 +1,37 @@
+ai-code-review-platform/
+├── api-gateway/
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── middleware/
+│   │   ├── routes/
+│   │   └── app.js
+│   ├── package.json
+│   └── .env
+├── ai-service/
+│   ├── src/
+│   │   ├── services/
+│   │   ├── utils/
+│   │   └── app.js
+│   ├── package.json
+│   └── .env
+├── collaboration-service/
+│   ├── src/
+│   │   ├── socket/
+│   │   ├── models/
+│   │   └── app.js
+│   ├── package.json
+│   └── .env
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── services/
+│   │   ├── utils/
+│   │   └── App.js
+│   ├── package.json
+│   └── public/
+├── shared/
+│   ├── config/
+│   ├── utils/
+│   └── models/
+├── docker-compose.yml
+└── README.md
