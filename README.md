@@ -2,7 +2,10 @@
 
 **AI-Powered Collaborative Code Review Platform** - A modern, real-time collaborative platform that leverages AI to provide intelligent code reviews, suggestions, and collaborative coding sessions.
 
-![AI Code Reviewer](https://via.placeholder.com/800x400/667eea/ffffff?text=AI+Code+Reviewer+Platform)
+![Dashboard](Docs/Dashboard.png)
+![Code Editor](Docs/Code Editor.png)
+![AI Review](Docs/AI Review.png)
+![Session](Docs/Session.png)
 
 ## ✨ Features
 
